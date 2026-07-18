@@ -1,37 +1,82 @@
-# Hi there, I'm Mahesh! 👋
-
-I’m passionate about Full Stack Development and Cybersecurity.  
-Currently learning: Spring Boot, MongoDB, and GitHub Actions.  
-
-*Fun Fact:* I once debugged a 50-line error just by adding a semicolon. 😄
-
-## Skills & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh061710&amp;show_icons=true))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Mahesh;Full+Stack+Developer;Java+Developer;Open+Source+Learner)](https://git.io/typing-svg)
 
 
-## Connect with Me
+# Hi 👋, I'm Mahesh
 
-- ✉ Email: Mahesh@example.com  
+🎓 Final Year B.Tech CSE Student from India
 
-<!--
-**Mahesh5F2/Mahesh5F2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Data Structures & Algorithms
+- System Design
+- Git & GitHub
+
+🎯 Career Objective
+Passionate about building scalable web applications and continuously improving my programming and problem-solving skills. Seeking an opportunity to start my career as a Software Engineer in the IT industry.
+
+## 🛠 Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- Python
+- SQL
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## 📌 Featured Projects
+
+🩸 Blood Flow Network
+> A real-time blood donor and recipient management system built using modern web technologies.
+
+🤖 PLACEXA – AI Career Intelligence & Placement Readiness Agent
+> An AI-powered platform that helps students prepare for placements through personalized career guidance.
+
+🌐 Portfolio Website *(Coming Soon)*
+
+## 📚 Currently Working On
+
+- Building Full Stack Web Applications
+- Solving DSA Problems
+- Learning System Design
+- Exploring Open Source
+
+## 🎯 2026 Goals
+
+- Build high-quality real-world projects
+- Contribute to Open Source
+- Strengthen DSA & Problem Solving
+- Secure a Software Engineer role in a leading IT company
+
+## 📫 Connect With Me
+
+- 📧 Email:maheshjangam950@gmail.com
+- 💼 LinkedIn: 
+  ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh5F2&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh5F2&layout=compact&theme=tokyonight)
+
+⭐ Thanks for visiting my profile!
