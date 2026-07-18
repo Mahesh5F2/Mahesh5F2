@@ -72,7 +72,7 @@ Passionate about building scalable web applications and continuously improving m
 ## 📫 Connect With Me
 
 - 📧 Email:maheshjangam950@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn: Jangam Mahesh
   ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahesh5F2&show_icons=true&theme=tokyonight)
